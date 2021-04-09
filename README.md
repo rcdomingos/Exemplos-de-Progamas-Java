@@ -1,3 +1,3 @@
 # Programas em Java
 
-Codigos em Java com proramas desenvolvidos para estudos e teste de conceitos
+Codigos em Java com programas desenvolvidos para estudos e teste de conceitos
